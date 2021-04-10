@@ -14,7 +14,7 @@ import com.quane.todolist.model.User;
 
 @WebServlet("/register")
 public class UserController extends HttpServlet {
-    private static final long serialVersionUID = 1 L;
+    private static final long serialVersionUID = 1L;
     private UserDao userDao;
 
     public void init() {
