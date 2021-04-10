@@ -1,4 +1,4 @@
 package com.quane.todolist.model;
 
-public class testxx {
+public class LoginBean {
 }
